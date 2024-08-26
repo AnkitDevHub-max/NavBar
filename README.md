@@ -1,2 +1,2 @@
 # NavBar
-A Beautiful NavBar created using HTML &amp; CSS.
+A Beautiful fully animated NavBar created using HTML &amp; CSS.
